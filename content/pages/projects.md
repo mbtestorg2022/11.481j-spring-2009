@@ -11,12 +11,42 @@ Pro/Con Presentations
 
 These presentations were given by teams of two students and focused on a particular reading or set of readings.
 
-| PRESENTATIONS |
-| --- |
-| Instructions ([PDF]({{< baseurl >}}/resources/mit11_481js09_sw_info)) |
-| Example 1 ([PDF]({{< baseurl >}}/resources/mit11_481js09_sw01)) |
-| Example 2 ([PDF]({{< baseurl >}}/resources/mit11_481js09_sw02)) |
-| Example 3 ([PDF]({{< baseurl >}}/resources/mit11_481js09_sw03)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PRESENTATIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Instructions ([PDF]({{< baseurl >}}/resources/mit11_481js09_sw_info))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Example 1 ([PDF]({{< baseurl >}}/resources/mit11_481js09_sw01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Example 2 ([PDF]({{< baseurl >}}/resources/mit11_481js09_sw02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Example 3 ([PDF]({{< baseurl >}}/resources/mit11_481js09_sw03))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Final Project
 -------------
