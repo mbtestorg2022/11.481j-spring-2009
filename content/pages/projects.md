@@ -55,4 +55,4 @@ The Merrimack Valley: Challenges, Assets, and Potential for Growth
 
 Presentation ([PDF]({{< baseurl >}}/resources/mit11_481js09_proj01_project_slides))
 
-Paper (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB]({{< baseurl >}}/resources/mit11_481js09_proj02_project_paper))
+Paper ([PDF - 1.5MB]({{< baseurl >}}/resources/mit11_481js09_proj02_project_paper))

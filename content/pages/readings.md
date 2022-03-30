@@ -184,7 +184,7 @@ Harris, John, and Michael Todaro. "Migration, Unemployment, and Development: A T
 
 Clark, Gordon. _Interregional Migration, National Policy, and Social Justice_. Totowa, NJ: Rowman & Littlefield, 1983, pp. 77-102. ISBN: 9780865981249.
 
-Florida, Richard. "The World is Spiky." _The Atlantic Monthly_, October 2005, 48-51. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB](http://www.theatlantic.com/images/issues/200510/world-is-spiky.pdf))
+Florida, Richard. "The World is Spiky." _The Atlantic Monthly_, October 2005, 48-51. ([PDF - 1.2MB](http://www.theatlantic.com/images/issues/200510/world-is-spiky.pdf))
 
 Florida, Richard, and Jim Goodnight. "[Managing for Creativity](https://hbr.org/product/managing-for-creativity/R0507L-PDF-ENG)." _Harvard Business Review_, July-August 2005.
 
@@ -444,7 +444,7 @@ Price indices
 
 Wonnacott, Thomas, and Ronald Wonnacott. _Introductory Statistics for Business and Economics_. 4th ed. New York, NY: Wiley, 1990, pp. 664-677. ISBN: 9780471527169.
 
-U.S. Department of Labor, Bureau of Labor Statistics. "Consumer Price Index." Chapter 17 in _BLS Handbook of Methods_. Washington, DC: U.S. Government Printing Office, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.bls.gov/opub/hom/pdf/homch17.pdf))
+U.S. Department of Labor, Bureau of Labor Statistics. "Consumer Price Index." Chapter 17 in _BLS Handbook of Methods_. Washington, DC: U.S. Government Printing Office, 2007. ([PDF](http://www.bls.gov/opub/hom/pdf/homch17.pdf))
 
 Wynne, Mark, and Fiona Sigalla. "The Consumer Price Index." _Economic Review: Federal Reserve Board of Dallas_, Summer 1994, 1-22.
 
